@@ -1,0 +1,21 @@
+Product Backlog
+Crea un lista de funcionalidades y características:
+
+Lista de precios de Naftas.
+Carga de turnos y manejo de los mismos.
+Sprint Planning
+Planea un Sprint de 1 semanas.
+Selecciona la funcionalidad de "Registro de turnos" como tu objetivo para este Sprint.
+
+Daily Standup
+Ayer: Trabajé en el diseño de la gestion de turnos .
+Hoy: Continuaré con un menu amigalbe para el usuario.
+Obstáculos: Necesito mejorar la integracion de la venta de naftas con la gestion de turnos.
+
+Sprint Review y Retrospectiva
+Al final del Sprint, revisa lo que lograste hacer (registro y manejo de turnos) y si necesitas habrá que ajustar la planificación para el próximo Sprint.
+AL fin del sprin logre realizar lo planeado habria que ajustar 
+Reflexiona sobre lo que funcionó y lo que se puede mejorar:
+Funcionó: pude generar el codigo para generar turenos
+Mejoras: a futuro se podria generar una coneccion a una base de datos donde el usuario se registre y pueda gestionar sus turnos.
+al momento puedo pedir que ingrese su dni par atener ese registro
